@@ -1,3 +1,3 @@
 My first readme
 # alx-pre_course
-Update from Github
+Update README.md from Github
